@@ -1,6 +1,8 @@
 # cmake_project_template
 
-TODO: description
+[![Build Status](https://travis-ci.org/Shviderskiy/cmake_project_template.svg?branch=WIP)](https://travis-ci.org/Shviderskiy/cmake_project_template)
+
+description
 
 ## Clone repository and update submodules
 ```bash
